@@ -6,5 +6,7 @@ export default defineConfig({
     dts: true, // Generate declaration file (.d.ts)
     splitting: false,
     sourcemap: true,
-    clean: true
+    clean: true,
+    treeshake: true,
+    cjsInterop: true
 });

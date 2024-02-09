@@ -1,3 +1,5 @@
+'use client';
+
 import { Dispatch, SetStateAction, useEffect, useState } from 'react';
 import { useLocalStorage as useClientOnlyLocalStorage } from 'usehooks-ts';
 
