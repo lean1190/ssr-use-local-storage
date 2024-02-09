@@ -1,6 +1,6 @@
 {
   "name": "ssr-use-local-storage",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React useLocalStorage hook, typed, and SSR friendly",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
