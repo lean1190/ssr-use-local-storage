@@ -26,6 +26,10 @@
   ],
   "author": "Lean Vilas",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lean1190/ssr-use-local-storage.git"
+  },
   "devDependencies": {
     "@testing-library/react": "^14.2.1",
     "@types/node": "^20.11.16",
